@@ -73,18 +73,16 @@ margin: 30px;
 }
  */
 .skill-img {
-  width: 30%;
-  min-width: 200px;
-  min-height: 200px;
+  width: 200px;
+  height: 200px;
   float: left;
   clip-path: circle();
   margin-right: 30px;
 }
 
 .img-chillies {
-  width: 30%;
-  min-width: 200px;
-  min-height: 200px;
+  width: 200px;
+  height: 200px;
   margin-left: 30px;
   float:right;
 }
